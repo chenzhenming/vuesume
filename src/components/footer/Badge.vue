@@ -19,7 +19,7 @@
             <img alt="GitHub forks" src="https://img.shields.io/github/forks/manerfan/vuesume">
         </a>
         <!-- 下载 -->
-        <a href="https://github.com/manerfan/vuesume/releases" target="_blank">
+        <a href="https://github.com/chenzhenming/vuesume/releases" target="_blank">
             <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/manerfan/vuesume/total">
         </a>
     </div>

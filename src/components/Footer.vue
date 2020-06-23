@@ -9,7 +9,7 @@
             <a-popover arrowPointAtCenter>
                 <template slot="content"><Badge/></template>
                 <span class="avatar ant-avatar ant-avatar-circle ant-avatar-image">
-                    <img alt="林舍|Maner·Fan" draggable="false" src="../assets/avatar.jpg"/>
+                    <img alt="陈震洺|Maner·Fan" draggable="false" src="../assets/avatar.jpg"/>
                 </span>
             </a-popover>
         </a-col>
@@ -17,7 +17,7 @@
         <a-col :xs="24" :sm="8" :md="6" :lg="6" :xl="6"><Social color="ghostwhite" :size="1.5" /></a-col>
         <!-- 徽章 -->
         <!-- 追求页面加载速度，放入Avatar中，这里暂时不展示 -->
-        <!-- <a-col :span="24"><Badge/></a-col> -->
+         <a-col :span="24"><Badge/></a-col>
     </a-row>
 </template>
 
